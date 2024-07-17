@@ -8,7 +8,7 @@ But I am intrested in Java & Kotlin.
 
 ![Contribution](https://ghchart.rshah.org/409ba5/muderstar)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HOStudio123&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_c)
+![Stats](https://github-readme-stats.vercel.app/api?username=muderstar&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_c)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muderstar&&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_c)
 
