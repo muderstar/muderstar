@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-My name is suystar_bg or dogstar_bg a.k.a. `系小小star呀~（index.gitinore）`.
+My name is suystar_bg or dogstar_bg.
+I have a name that my favorite, do you want to know?
+If you don't speak English , you can't know what does this mean.
+
+This is the name I chose a long time ago.
+It's called `系小小star呀~ (index.gitgnore)`, that the most dumbest name i ever heard. 
 I'm a noob, and I'm tryin' to learn somethin'.
 
 I'm the mascot dog in [IT Craft Development Team](https://github.com/ITCraftDevelopmentTeam).
