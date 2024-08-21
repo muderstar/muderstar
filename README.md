@@ -1,14 +1,17 @@
 ## Hi there 👋
 
-I am suystar_bg , nice to meet you.
+My name is suystar_bg or dogstar_bg a.k.a. `系小小star呀~（index.gitinore）`.
+I'm a noob, and I'm tryin' to learn somethin'.
 
-I am a mascot dog in ITcdt.
+I'm the mascot dog in [IT Craft Development Team](https://github.com/ITCraftDevelopmentTeam).
 
-But I am intrested in Java & Kotlin.
+~~I mainly use ...~~ Languages showed in statistics are pretty self-explanatory.
 
-I am a noob, I'm tryin' to learn somethin'.
+## Links
+Minecraft accounts: [h66suy](https://namemc.com/profile/h66suy.1) [suystar_bg](https://namemc.com/profile/suystar_bg.1) [suystar_666](https://namemc.com/profile/suystar_666.1)
 
-Don't Look My Repositories. Those are so bad. Please ;\(
+## Statistics
+> Don't Look My Repositories. Those are so bad. Please ;\(
 
 ![Contribution](https://ghchart.rshah.org/409ba5/muderstar)
 
