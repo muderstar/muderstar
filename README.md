@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 My name is suystar_bg or dogstar_bg.
+
 I have a name that my favorite, do you want to know?
-If you don't speak English , you can't know what does this mean.
 
 This is the name I chose a long time ago.
 
