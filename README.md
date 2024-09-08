@@ -26,4 +26,4 @@ Minecraft accounts: [h66suy](https://namemc.com/profile/h66suy.1) [suystar_bg](h
 
 ![Achievement](http://github-readme-streak-stats.herokuapp.com?user=muderstar&theme=vue&date_format=%5BY.%5Dn.j&dates=000000)
 
-This intro is help made by chun-awa , thanks for chun-awa's help
+Some content is created by chun-awa , tysm chun-awa + you can follow him.
