@@ -5,10 +5,9 @@ I have a name that my favorite, do you want to know?
 If you don't speak English , you can't know what does this mean.
 
 This is the name I chose a long time ago.
-It's called `系小小star呀~ (index.gitgnore)`, that the most dumbest name i ever heard. 
+
 I'm a noob, and I'm tryin' to learn somethin'.
 
-I'm the mascot dog in [IT Craft Development Team](https://github.com/ITCraftDevelopmentTeam).
 
 ~~I mainly use ...~~ Languages showed in statistics are pretty self-explanatory.
 
@@ -17,6 +16,7 @@ Minecraft accounts: [h66suy](https://namemc.com/profile/h66suy.1) [suystar_bg](h
 
 ## Statistics
 > Don't Look My Repositories. Those are so bad. Please ;\(
+
 
 ![Contribution](https://ghchart.rshah.org/409ba5/muderstar)
 
