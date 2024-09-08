@@ -2,10 +2,6 @@
 
 My name is suystar_bg or dogstar_bg.
 
-I have a name that my favorite, do you want to know?
-
-This is the name I chose a long time ago.
-
 I'm a noob, and I'm tryin' to learn somethin'.
 
 
