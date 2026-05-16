@@ -1,4 +1,7 @@
 __hello there!__
+
+number 1 psychopath
+
 My nickname is `starusuallyyellow`, but you can call me `suy` becuz short.
 
 this dumb guy is trying to make something cool, but he cant.
